@@ -4,7 +4,7 @@ Welcome to all my fans (0 fans)! I'm passionate about reinforcement learning, AI
 
 ## Featured Project: PkmnRLArena
 
-[PkmnRLArena](https://github.com/wissammm/PkmnRLArena) aims to create a Reinforcement Learning (RL) environment for Pokémon Emerald using PettingZoo, but the most important part, improve the difficulty of Pokemon Emerald directly inside the GBA. The project involves:
+[PkmnRLArena](https://github.com/wissammm/PkmnRLArena) aims to create a Reinforcement Learning (RL) environment for Pokémon Emerald using PettingZoo, but the most important part, improve the difficulty of Pokemon Emerald directly inside the GBA with a trained AI. The project involves:
 - Building an RL-compatible environment based on Pokémon Emerald gameplay
 - Training models to play and optimize strategies for the game
 - Running trained models directly on a Game Boy Advance emulator
