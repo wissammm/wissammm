@@ -10,9 +10,10 @@ Welcome to all my fans (0 fans)! I'm passionate about reinforcement learning, AI
 - Running trained models directly on a Game Boy Advance emulator
 
 ### Technologies Used
-- **C**: Core emulator and environment logic
+- **Rust**: Core emulator and environment logic
 - **Python**: RL agent development, environment integration (PettingZoo)
-- **Makefile, Assembly, Jupyter Notebook, Jinja**: Supporting components for development and experimentation
+- **C** : Low-level
+- **Makefile, Docker, Assembly, Jupyter Notebook, Jinja**: Supporting components for development and experimentation
 
 ## About Me
 - 🧠 Interested in AI, RL, and automation
